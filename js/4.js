@@ -7,6 +7,7 @@ function task_4()
    } 
            
     let arr=[1,2,5,12,15,21];
-    console.log(calcFife(arr));    
+    let arrFire=calcFife(arr);
+    console.log(arrFire);    
 
 }
